@@ -1,20 +1,133 @@
 <h1 align="center">Hi 👋, I'm Alan Rojas</h1>
-<h3 align="center">A passionate FullStack developer from Chile</h3>
 
-- 👯 I’m looking to collaborate on **python projects, fullstack projects**
+<h3 align="center">
+  Full Stack Developer from Chile 🇨🇱
+</h3>
 
-- 💬 Ask me about **React, HTML5, Python,JavaScripts**
-
-- 📫 How to reach me **alanjrojas97@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/1kd9muspdg](https://flowcv.com/resume/1kd9muspdg)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alan-rojas-yapura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-rojas-yapura" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building modern, scalable and user-friendly web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajry97&show_icons=true&locale=en&layout=compact" alt="ajry97" /></p>
+### 👨‍💻 About me
+
+- 🔭 I'm currently working as a **Frontend Developer**, building applications with **Angular and TypeScript**.
+
+- 🌱 I'm continuously improving my skills in **Full Stack Development, cloud infrastructure and software architecture**.
+
+- 💼 I have experience developing applications with **React, Next.js, Angular, Flask and Spring Boot**.
+
+- 🧩 I enjoy working on **frontend interfaces, REST APIs, authentication systems, databases and cloud deployments**.
+
+- 👯 I'm interested in collaborating on **Full Stack, JavaScript, TypeScript, Python and Java projects**.
+
+- 💬 Ask me about **Angular, React, Next.js, TypeScript, JavaScript, Python, Flask, Java and Spring Boot**.
+
+- 📫 Reach me at **alanjrojas97@gmail.com**
+
+- 📄 View my experience:
+  [My Resume](https://flowcv.com/resume/1kd9muspdg)
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alan-rojas-yapura" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="42"
+      height="42"
+    />
+  </a>
+</p>
+
+---
+
+### 🚀 Frontend
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vite,tailwind,bootstrap"
+    alt="Frontend technologies"
+  />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=python,flask,java,spring,nodejs"
+    alt="Backend technologies"
+  />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"
+    alt="Databases"
+  />
+</p>
+
+### ☁️ Cloud, DevOps and Tools
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=aws,docker,git,github,bash,vscode,postman"
+    alt="Cloud and development tools"
+  />
+</p>
+
+### 📚 Other technologies and concepts
+
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"
+    alt="Zustand"
+  />
+  <img
+    src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"
+    alt="SQLAlchemy"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+    alt="JWT"
+  />
+  <img
+    src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API"
+  />
+  <img
+    src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white"
+    alt="Alembic"
+  />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ajry97&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Alan Rojas GitHub statistics"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajry97&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ajry97&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
